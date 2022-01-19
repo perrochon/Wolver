@@ -1,0 +1,2 @@
+# Wolver
+A Wordle Solver
